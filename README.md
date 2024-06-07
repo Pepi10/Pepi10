@@ -1,9 +1,9 @@
-# Hi, I'm Jaekyeong 👋
+# 👋 Hi, I'm Jaekyeong 
 
 ## 📊 Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pepi10&show_icons=true&theme=radical)
 
-## Things I code with
+## 🛠️ Things I code with
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
