@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Pepi10
 
 ## 📊 Github Stats
+<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pepi10&show_icons=true&theme=radical)
-
+</p>
 ## 🛠️ Things I code with
 
 <p align="center">
