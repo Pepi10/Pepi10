@@ -1,12 +1,5 @@
 ## 👋 Hi, I'm Pepi10
 
-## 📊 Github Stats
-<p align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pepi10&show_icons=true&theme=radical)
-
-</p>
-
 ## 🛠️ Things I code with
 
 <p align="center">
@@ -51,6 +44,9 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 </p>
 
+## 📊 Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pepi10&show_icons=true&theme=radical)
 
 
 
