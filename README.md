@@ -41,6 +41,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
 </p>
 
