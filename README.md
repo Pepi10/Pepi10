@@ -2,53 +2,36 @@
 
 ## 🛠️ Things I code with
 
-<p align="center">
-  <strong>Languages</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=SQL&logoColor=white" />
-</p>
 
-<p align="center">
-  <strong>Frameworks</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/-BeautifulSoup-181717?style=flat-square&logo=BeautifulSoup&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Seaborn-4E4E4E?style=flat-square&logo=Seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white" />
-</p>
-<p align="center">  
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" />
-</p>
+<strong>Languages</strong>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=SQL&logoColor=white" />
 
-<p align="center">
-  <strong>Databases</strong>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-</p>
+<strong>Frameworks</strong>
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-181717?style=for-the-badge&logo=BeautifulSoup&logoColor=white)
 
-<p align="center">
-  <strong>Tools</strong>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
-</p>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4E4E4E?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+<strong>Databases</strong>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<strong>Tools</strong>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## 📊 Github Stats
 
