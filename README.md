@@ -4,9 +4,8 @@
 
 
 <strong>Languages</strong>
-
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=SQL&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=SQL&logoColor=white)
 
 <strong>Frameworks</strong>
 
